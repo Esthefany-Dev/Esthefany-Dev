@@ -2,7 +2,7 @@
 
 - 💻 Programadora por hobbie e profissão.
 - 👩‍💻 Atualmente trabalho com Front-End.
-- 📚 Estudando React JS.
+- 📚 Estudando Desenvolvimento Mobile
 
  <div>
   <a href="https://github.com/Esthefany-Dev">
